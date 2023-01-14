@@ -1,12 +1,12 @@
 {
-  "dataStudio": {
-    "name": "NBP Currency",
-    "logoUrl": "https://www.nbp.pl/graph/logo/logo-nbp-w2.jpg",
-    "company": "Bernard van der Esch",
-    "companyUrl": "https://developers.google.com/datastudio/",
-    "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
-    "supportUrl": "https://github.com/google/datastudio/issues",
-    "description": "Get currency rate from polish national bank",
-    "sources": []
-  }
+ "dataStudio": {
+   "name": "NBP Currency",
+   "logoUrl": "https://www.nbp.pl/graph/logo/logo-nbp-w2.jpg",
+   "company": "Bernard van der Esch",
+   "companyUrl": "https://developers.google.com/datastudio/",
+   "addonUrl": "https://github.com/adeptofvoltron/google-data-studio-nbp-connector",
+   "supportUrl": "https://github.com/adeptofvoltron/google-data-studio-nbp-connector/issues",
+   "description": "Get currency rate from polish national bank",
+   "sources": []
+ }
 }
